@@ -1,8 +1,8 @@
 # APT-V01-FMC
 CopyRight 2023 ApotheoTech 
 
-![Side]()
-![Front]()
+![Side](https://github.com/ApotheoTech/APT-V01-FMC/blob/main/Images/front_view.jpg)
+![Front](https://github.com/ApotheoTech/APT-V01-FMC/blob/main/Images/front2.jpg)
 
 ## Description
 
